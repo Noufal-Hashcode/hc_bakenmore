@@ -2,7 +2,7 @@
 {
     'name': 'INV Costing',
     'version': '13.0',
-    'depends': ['stock_account'],
+    'depends': ['stock_account','stock'],
     'description': """""",
     'summary': 'omit move lines, constraints in account',
     'category': '',
