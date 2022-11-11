@@ -8,8 +8,8 @@
     'category': '',
     'summary': 'This module adds quality verification option for administrator',
     'description': """ """,
-    'depends': ['stock'],
-    'data': ['views/stock_picking_view.xml'
+    'depends': ['quality'],
+    'data': ['views/quality_verification_view.xml'
     ],
     "images": [],
     'license': 'OPL-1',
