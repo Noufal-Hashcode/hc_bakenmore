@@ -9,8 +9,7 @@
     'summary': 'This module adds quality verification option for administrator',
     'description': """ """,
     'depends': ['quality'],
-    'data': ['views/quality_verification_view.xml'
-    ],
+    'data': ['views/quality_verification_view.xml'],
     "images": [],
     'license': 'OPL-1',
     'installable': True,
