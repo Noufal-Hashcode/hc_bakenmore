@@ -3,7 +3,7 @@ from odoo import api, models, fields, _
 
 
 class QualityVerification(models.Model):
-    _inherit = 'quality.check'
+    _inherit = ['quality.check']
 
     quality_state = fields.Selection(selection_add=[('verified', 'Verified')])
 
